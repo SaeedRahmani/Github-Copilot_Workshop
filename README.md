@@ -1,3 +1,5 @@
+# This Project has been developed solely by using Github Copilot as part of a workshop on introducing the Github Copilot capabililites. The following lines of the README file are also generater by Github Copilot.
+
 # Linear Regression Project
 
 This project generates data based on a linear function, fits a linear regression model on it, and plots both the data and the fitted model.
